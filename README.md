@@ -21,7 +21,7 @@ A lightweight Java application that implements a graphical calculator with advan
 ## Installation
 1. Clone the repository
     ```bash
-    git clone https://github.com/HARRY-JUSTHARRY/Advanced-Java-Calculator.git
+    git clone https://github.com/HARRY-JUSTHARRY/calculator_in_java.git
     cd Advanced-Java-Calculator
     ```
 2. Compile the code:
